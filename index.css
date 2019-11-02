@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#head .tupian{
+    margin-left: 280px;
+    margin-top: 18px;
+}
+#head .tupian img{
+    width: 115px;
+    height: 52px;
+    float：left;
+}
+#head .world{
+    margin-left: 1200px;
+}
+#head .world ul li{
+    list-style: none;
+    float: left;
+    margin-left: 70px;
+}
+#body img{
+    width:100%;
+}
+#footer{
+    width: 100%;
+    height: 30px;
+    background-color: blue;
+    margin-top: -5px;
+}
+#footer span{
+    margin-left: 1000px;
+    line-height: 35px;
+}
